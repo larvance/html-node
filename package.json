@@ -25,8 +25,5 @@
   "bugs": {
     "url": "https://github.com/larvance/html-node/issues"
   },
-  "homepage": "https://github.com/larvance/html-node#readme",
-  "devDependencies": {
-    "express": "^4.17.1"
-  }
+  "homepage": "https://github.com/larvance/html-node#readme"
 }
