@@ -1,0 +1,32 @@
+{
+  "name": "html-node-compiler",
+  "version": "1.0.0",
+  "description": "This module lets you to run node codes in your html!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no tests specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larvance/html-node.git"
+  },
+  "keywords": [
+    "html",
+    "node",
+    "embed",
+    "file",
+    "js",
+    "fs",
+    "run",
+    "compile"
+  ],
+  "author": "larvance",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/larvance/html-node/issues"
+  },
+  "homepage": "https://github.com/larvance/html-node#readme",
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
